@@ -25,6 +25,11 @@ This device constructed for Rover project, but can be modified to another else u
 * [Capacitor](https://www.aliexpress.com/af/capacitor-16V.html?SearchText=capacitor+16V&d=y&initiative_id=SB_20190117152249&origin=n&catId=0&isViewCP=y&jump=afs) - cca 1500uF (10V/16V)
 * Switches, buttons, potentiometer, wires ..
 
+<p align="center">
+<img src="https://github.com/Zahorack/Shared-projects/blob/master/MultiController/Photodocumentation/MultiController_bb.jpg" width="600" title="hover text">
+
+</p>
+
 
 ## Software
 ### Peripheral reading
