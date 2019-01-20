@@ -113,7 +113,7 @@ typedef struct {
 ### Data transmitting
 Now is control packet ready to send. I am sending it periodacally using timer and UART.
 ```
-Protocol_t ctrl;
+Protocol_t packet;
 SoftwareSerial rf(RF_RX, RF_TX);
 
 void init {
@@ -123,7 +123,7 @@ void init {
 }
 
 void UART_IRQ() {
-        ctrl.data_crc = calc_crc8((uint8_t *)&ctrl, sizeof(ctrl) -2);
-        rf.write((uint8_t *)&ctrl, sizeof(ctrl));
+        packet.data_check = calc_crc8((uint8_t *)&packet, sizeof(packet));
+        rf.write((uint8_t *)&packet, sizeof(packet));
 }
 ```
