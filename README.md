@@ -10,7 +10,7 @@ This repository contains some of my simple non commercial projects.
 
 * [SunTracker](https://github.com/Zahorack/Shared-projects/blob/master/Suntracker)
 <p align="left">
-<img src="https://github.com/Zahorack/Shared-projects/blob/master/Suntracker/Fotodokumentacia/IMG_5165.JPG" width="250" 
+<img src="https://github.com/Zahorack/Shared-projects/blob/master/Suntracker/Fotodokumentacia/IMG_5165.JPG" width="300" 
 </p>
 
 
