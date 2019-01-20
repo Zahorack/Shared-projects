@@ -113,10 +113,12 @@ typedef struct {
 Now is control packet ready to send. I am sending it periodacally using timer and UART.
 ```
 Protocol_t ctrl;
+SoftwareSerial rf(RF_RX, RF_TX);
 
 void init {
-Timer1.initialize(50000);               
-Timer1.attachInterrupt(UART_IRQ);       //periodic handler for data transfer
+        rf.begin(9600);
+        Timer1.initialize(50000);               
+        Timer1.attachInterrupt(UART_IRQ);       //periodic handler for data transfer
 }
 
 void UART_IRQ() {
