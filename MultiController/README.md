@@ -2,7 +2,7 @@
 Programmable wireless controller for various applications
 
 ## Introduction
-This device constructed for Rover project, but can be modified to another else use.
+This device was constructed for Rover project, but can be modified to another else use.
 
 <p align="center">
 <img src="https://github.com/Zahorack/Shared-projects/blob/master/MultiController/Photodocumentation/IMG_3594.JPG" width="350" title="hover text">
