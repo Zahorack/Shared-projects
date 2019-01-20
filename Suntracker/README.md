@@ -31,7 +31,7 @@ Advantage of this concept is that is possible to aim at Sun either from width an
 Resistors values depend on your modification, important is set working point. For this you need to calculate simple voltage divider.
 
 #### 3D model
-* [Download from here](https://github.com/Zahorack/Shared-projects/tree/master/Suntracker/3Dmodel) stl, stp or CatiaPart and lets modify.
+* [Download from here](https://github.com/Zahorack/Shared-projects/tree/master/Suntracker/3Dmodel) stl, stp or CatiaPart and print it on 3D printer.
 <p align="center">
 <img src="https://github.com/Zahorack/Shared-projects/blob/master/Suntracker/Photodocumentation/Model2.PNG" width="600"
 </p>
