@@ -13,7 +13,9 @@ Advantage of this concept is that is possible to aim at Sun either from width an
 
 
 ### Library
-* [STM32 Library](https://github.com/xgallom/stm32-f446ze) - Includes necessary for compilation.
+* [STM32 Library](https://github.com/Zahorack/Shared-projects/tree/master/Suntracker/src) - Includes necessary for compilation.
+
+Source files are writen in C++, with STD (Standart peripheral library) support.
 
 ## Realization
 
