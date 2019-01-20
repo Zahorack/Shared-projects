@@ -13,7 +13,7 @@ Advantage of this concept is that is possible to aim at Sun either from width an
 
 
 ### Library
-* [STM32 Library](https://github.com/xgallom/stm32-f446ze) - Source files necesary for correct working
+* [STM32 Library](https://github.com/xgallom/stm32-f446ze) - Includes necessary for compilation.
 
 ## Realization
 
@@ -35,3 +35,11 @@ Resistors values depend on your modification, important is set working point. Fo
 <p align="center">
 <img src="https://github.com/Zahorack/Shared-projects/blob/master/Suntracker/Photodocumentation/Model2.PNG" width="600"
 </p>
+
+## Software
+This device is contrlled with more seriosly microcontroller [STM32](https://en.wikipedia.org/wiki/STM32) series F4, seated on NUCLEO development board.
+<p align="center">
+<img src="https://github.com/Zahorack/Shared-projects/blob/master/Suntracker/Photodocumentation/NUCLEO-F446ZE.jpg" width="500"
+</p>
+
+On this platform we are developing  Space prtnting rover [firmware](https://github.com/xgallom/stm32-f446ze)
