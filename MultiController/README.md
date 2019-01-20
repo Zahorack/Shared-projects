@@ -93,6 +93,7 @@ attachInterrupt(pin, ISR, mode);
           RISING to trigger when the pin goes from low to high,
           FALLING for when the pin goes from high to low.
 ```
+Be carefull with interrupts and buttons, there are some risk moments. One button pushing can provide multiple events, for this you have to add capacitor, like i used in my scheme. When button is not pushed down, circuit is open and connected to input, nice antenna effect. There is one solution with internal/external PULL UP / PULL DOWN resistors.
 
 ### Communication protocol
 When comes to data sending you need to specify order, start or end of your data frame, and idealy some data check value.
