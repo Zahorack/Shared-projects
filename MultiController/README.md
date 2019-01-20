@@ -123,7 +123,7 @@ void init {
 }
 
 void UART_IRQ() {
-        packet.data_check = calc_crc8((uint8_t *)&packet, sizeof(packet));
+        packet.data_check = calc_crc8((uint8_t *)data, sizeof(data));
         rf.write((uint8_t *)&packet, sizeof(packet));
 }
 ```
