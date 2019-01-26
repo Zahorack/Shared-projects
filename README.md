@@ -1,5 +1,5 @@
 # Shared-projects
-This repository contains some of my simple non commercial projects.
+This repository contains some of my older simple non commercial projects.
 
 # List of projects
 
