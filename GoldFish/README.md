@@ -14,6 +14,14 @@ I named the project GoldFish pair of devices with which i tried to acoustically 
 <img src="https://github.com/Zahorack/Shared-projects/blob/master/GoldFish/Photodocumentation/IMG_5221.JPG" width="700" title="hover text">
 </p>
 
+# Realization 
+
+As sonic source i used vibration speaker. This speaker can play everthing like clasic speaker, its frequency range is designed for human hearing so it is OK. Custom playing could be idealy implemented with DA converter, but in this verison i used only square signal source, so I was able to change only frequency of transmitted waves. 
+
+<p align="center">
+<img src="https://github.com/Zahorack/Shared-projects/blob/master/GoldFish/Photodocumentation/speaker.jpg" width="400" 
+  title="hover text">
+</p>
 
 # Scientific evidence
 
