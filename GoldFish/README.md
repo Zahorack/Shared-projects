@@ -23,7 +23,11 @@ A human can generally hear between 20 and 20,000 Hertz, (Hertz is a measure of s
 Fish with hearing specializations such as swim bladders with an extensive use of sound pressure such as carps and catfishes
 
 ```
-Fishes possess quite diverse hearing capacities. Hearing non-specialists (generalists) can detect low frequency sounds (<1 kHz) at relatively high sound intensities, whereas hearing specialists have evolved a variety of accessory hearing structures to enhance their ability to detect low intensity sounds in a broader frequency range.
+Fishes possess quite diverse hearing capacities. Hearing non-specialists 
+(generalists) can detect low frequency sounds (<1 kHz) at relatively high
+sound intensities, whereas hearing specialists have evolved a variety of 
+accessory hearing structures to enhance their ability to detect low intensity
+sounds in a broader frequency range.
 
 (Hawkins & Myrberg, 1983; Ladich & Popper, 2004)
 ```
@@ -60,7 +64,21 @@ Institute (Aquatic Sciences) for the Invasive Animals Cooperative Research Centr
 ## Carps also see well
 
 ```
-“In the eye there are two types of photoreceptor cells clustered on the back portion of the eye (retina), these are cones and rods. ‘Cones’ detect colour while ‘rods’ detect differences in light intensity. The carp has four types of cone cell that detect red, green, blue and ultraviolet meaning carp can see a broader spectrum of light than humans. It has also been shown that near infrared light can be detected by carp. The fact that carp can detect a wider spectrum of light enables them to see in dark conditions such as at night or in turbid water. Moonlight is richer in longer wavelength light such as infrared which the carp may utilise when feeding in the dark. “As a general rule, while carp cannot focus on objects well they are very good at spotting fast movements both in and out of the water in clear conditions. So when stalking fish at close quarters, always move slowly, take cover behind bankside vegetation and try to wear clothes that blend in. If you do this you should go unnoticed and have a better chance of not putting the fish on edge and get them feeding confidently.”
+“In the eye there are two types of photoreceptor cells clustered on the
+back portion of the eye (retina), these are cones and rods. ‘Cones’ detect
+colour while ‘rods’ detect differences in light intensity. The carp has four
+types of cone cell that detect red, green, blue and ultraviolet meaning carp 
+can see a broader spectrum of light than humans. It has also been shown that 
+near infrared light can be detected by carp. The fact that carp can detect a
+wider spectrum of light enables them to see in dark conditions such as at 
+night or in turbid water. Moonlight is richer in longer wavelength light such
+as infrared which the carp may utilise when feeding in the dark. “As a general
+rule, while carp cannot focus on objects well they are very good at spotting 
+fast movements both in and out of the water in clear conditions. So when 
+stalking fish at close quarters, always move slowly, take cover behind 
+bankside vegetation and try to wear clothes that blend in. If you do this 
+you should go unnoticed and have a better chance of not putting the fish 
+on edge and get them feeding confidently.”
 ```
 [Source](https://www.carpology.net/articles/features/inside-a-carp-vision)
 
