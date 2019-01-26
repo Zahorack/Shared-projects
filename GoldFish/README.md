@@ -1,12 +1,18 @@
 # GoldFish
 Acoustic bait
 
+<p align="center">
+<img src="https://github.com/Zahorack/Shared-projects/blob/master/GoldFish/Photodocumentation/IMG_5217.JPG" width="350" title="hover text">
+</p>
+
 # Introduction
 I named the project GoldFish pair of devices with which i tried to acoustically invate carps in lakes to specific point and then easily catch them. Close to point where I put hook trap with eatable bait I also place my GoldFish device, which transmitted acoustic waves (vibrations) in water to surroundings. According to my hypothesis choosing right frequency should impress fishes.
 
 <p align="center">
-<img src="https://github.com/Zahorack/Shared-projects/blob/master/GoldFish/Photodocumentation/IMG_5217.JPG" width="350" title="hover text">
+<img src="https://github.com/Zahorack/Shared-projects/blob/master/GoldFish/Photodocumentation/IMG_5221.JPG" width="350" title="hover text">
 </p>
+
+
 ## Scientific evidence
 
 A human can generally hear between 20 and 20,000 Hertz, (Hertz is a measure of sound frequency, or pitch). The average cyprinid can hear between 5 and 2,000 Hertz so they can tune into lower, deeper sounds than us but not up to the higher frequencies.
