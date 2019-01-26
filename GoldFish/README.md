@@ -1,11 +1,12 @@
 # GoldFish
 Acoustic bait
 
+As a fisherman I always wanted to try impress and lure fishes,  with sonic, specially carps. One day I have decided to do it.
 <p align="center">
 <img src="https://github.com/Zahorack/Shared-projects/blob/master/GoldFish/Photodocumentation/IMG_5217.JPG" width="500" title="hover text">
 </p>
 
-* [Video for this project](https://www.youtube.com/channel/UCGc_5v9v5bs_ZvDtqfiynDQ?view_as=subscriber)
+* [Video for this project](https://youtu.be/51hdX-kjZJ4)
 
 # Introduction
 I named the project GoldFish pair of devices with which i tried to acoustically invate carps in lakes to specific point and then easily catch them. Close to point where I put hook trap with eatable bait I also place my GoldFish device, which transmitted acoustic waves (vibrations) in water to surroundings. According to my hypothesis choosing right frequency should impress fishes.
