@@ -1,8 +1,12 @@
 # GoldFish
+Acoustic bait
 
 # Introduction
+I named the project GoldFish pair of devices with which i tried to acoustically invate carps in lakes to specific point and then easily catch them. Close to point where I put hook trap with eatable bait I also place my GoldFish device, which transmitted acoustic waves (vibrations) in water to surroundings. According to my hypothesis choosing right frequency should impress fishes.
 
-
+<p align="center">
+<img src="https://github.com/Zahorack/Shared-projects/blob/master/GoldFish/Photodocumentation/IMG_5217.JPG" width="350" title="hover text">
+</p>
 ## Scientific evidence
 
 A human can generally hear between 20 and 20,000 Hertz, (Hertz is a measure of sound frequency, or pitch). The average cyprinid can hear between 5 and 2,000 Hertz so they can tune into lower, deeper sounds than us but not up to the higher frequencies.
@@ -25,7 +29,7 @@ Therefore, the absolute hearing threshold is less important than the ability of 
 individual to detect a relevant signal against background noise.
 
 demonstrated that cyprinids can fully utilize their excellent hearing sensitivity
-in ëquietí fresh water such as backwaters of rivers and lakes, but that
+in ‚Äòquiet‚Äô fresh water such as backwaters of rivers and lakes, but that
 their hearing is highly masked in certain habitats such as running waters.
 
 No significant reaction to the playback of feeding sounds was observed, although
@@ -38,7 +42,7 @@ only when the test subjects had visual contact with their feeding conspecifics.
 
 
 
-Interestingly, the ìassumed repellentî sound seemed to act as an attractant. Even though tagged carp were aggregated near the speakers by broadcast feeding prior to the repellent experiments there were distinct behavioural differences between feeding and experimental times. During feeding, carp displayed exploratory movements while during the experimental period all tagged carp formed a tight aggregation directly at the speaker. This indicates that the repellent sound or a component of the sound (i.e. mid/high frequencies) may be a useful attractant and this warrants further research.
+Interestingly, the ‚Äúassumed repellent‚Äù sound seemed to act as an attractant. Even though tagged carp were aggregated near the speakers by broadcast feeding prior to the repellent experiments there were distinct behavioural differences between feeding and experimental times. During feeding, carp displayed exploratory movements while during the experimental period all tagged carp formed a tight aggregation directly at the speaker. This indicates that the repellent sound or a component of the sound (i.e. mid/high frequencies) may be a useful attractant and this warrants further research.
 (https://www.pestsmart.org.au/carp-acoustic-attractants-and-repellents/)
 
 This study investigated the response of common carp in an enclosed (man-made) water body
@@ -48,17 +52,19 @@ low/mid, and very low frequencies coupled with explosion sounds).
 Although the frequencies
 and sound pressure levels were biologically relevant, the results indicate that feeding and
 flowing water sounds have a limited effect and therefore do not appear suitable for
-optimizing carp harvesting. Interestingly, the ìassumed repellentî sound seemed to stimulate
+optimizing carp harvesting. Interestingly, the ‚Äúassumed repellent‚Äù sound seemed to stimulate
 exploration for the sound source which indicates that this sound or a component of it could
-prove to be a useful attractant.
+prove to be a useful attractant.
+
 
 Thwaites LA and Fredberg JF (2013). Carp Acoustic
 Attractants and Repellents. Prepared by the South Australian Research and Development
 Institute (Aquatic Sciences) for the Invasive Animals Cooperative Research Centre, Canberra.
-25pp.
+25pp.
 
 
 
 
-ìIn the eye there are two types of photoreceptor cells clustered on the back portion of the eye (retina), these are cones and rods. ëConesí detect colour while ërodsí detect differences in light intensity. The carp has four types of cone cell that detect red, green, blue and ultraviolet meaning carp can see a broader spectrum of light than humans. It has also been shown that near infrared light can be detected by carp. The fact that carp can detect a wider spectrum of light enables them to see in dark conditions such as at night or in turbid water. Moonlight is richer in longer wavelength light such as infrared which the carp may utilise when feeding in the dark. ìAs a general rule, while carp cannot focus on objects well they are very good at spotting fast movements both in and out of the water in clear conditions. So when stalking fish at close quarters, always move slowly, take cover behind bankside vegetation and try to wear clothes that blend in. If you do this you should go unnoticed and have a better chance of not putting the fish on edge and get them feeding confidently.î
+
+‚ÄúIn the eye there are two types of photoreceptor cells clustered on the back portion of the eye (retina), these are cones and rods. ‚ÄòCones‚Äô detect colour while ‚Äòrods‚Äô detect differences in light intensity. The carp has four types of cone cell that detect red, green, blue and ultraviolet meaning carp can see a broader spectrum of light than humans. It has also been shown that near infrared light can be detected by carp. The fact that carp can detect a wider spectrum of light enables them to see in dark conditions such as at night or in turbid water. Moonlight is richer in longer wavelength light such as infrared which the carp may utilise when feeding in the dark. ‚ÄúAs a general rule, while carp cannot focus on objects well they are very good at spotting fast movements both in and out of the water in clear conditions. So when stalking fish at close quarters, always move slowly, take cover behind bankside vegetation and try to wear clothes that blend in. If you do this you should go unnoticed and have a better chance of not putting the fish on edge and get them feeding confidently.‚Äù
 (https://www.carpology.net/articles/features/inside-a-carp-vision)
