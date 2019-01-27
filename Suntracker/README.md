@@ -39,6 +39,28 @@ Resistors values depend on your modification, important is set working point. Fo
 </p>
 
 ## Software
+
+Main idea and necessary functionalities are evident from class declaration.
+
+```
+class Suntracker {
+	Periph::Adc m_adcs[5] = {
+			Periph::Adc(Periph::AdcPins::AdcPin1), Periph::Adc(Periph::AdcPins::AdcPin2),
+			Periph::Adc(Periph::AdcPins::AdcPin3), Periph::Adc(Periph::AdcPins::AdcPin4),
+			Periph::Adc(Periph::AdcPins::AdcPin5),
+	};
+	Periph::Servo 	m_servo1, m_servo2;
+	Util::Timer m_timer;
+
+	void measure();
+public:
+	Suntracker();
+
+	void update();
+
+};
+```
+
 This device is contrlled with more seriosly microcontroller [STM32](https://en.wikipedia.org/wiki/STM32) series F4, seated on NUCLEO development board.
 <p align="center">
 <img src="https://github.com/Zahorack/Shared-projects/blob/master/Suntracker/Photodocumentation/NUCLEO-F446ZE.jpg" width="500"
