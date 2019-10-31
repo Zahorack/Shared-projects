@@ -4,9 +4,9 @@
 
 namespace RcPwm {
 static const uint32_t 	DefaultDuty = 1500,
-						MinDuty = 1000,
-						MaxDuty = 2000,
-						Offset = 300;
+			MinDuty = 1000,
+			MaxDuty = 2000,
+			Offset = 300;
 }
 
 namespace Edge {
@@ -68,7 +68,7 @@ ISR(PCINT0_vect) // handle pin change interrupt for D8 to D13 here
 		PCINT_HANDLER(Channels::Channel1, channel1_edge);
 	}
 
-	else if(channel2_edge != s_channelArgs[Channels::Channel2].last_edge) {
+	if(channel2_edge != s_channelArgs[Channels::Channel2].last_edge) {
 		PCINT_HANDLER(Channels::Channel2, channel2_edge);
 	}
 }
@@ -90,20 +90,18 @@ ISR(PCINT2_vect) // handle pin change interrupt for D0 to D7 here
 		PCINT_HANDLER(Channels::Channel4, channel_edge);
 	}
 }  
- 
+
+static void initGpio() {
+	for(int i = 0; i < Channels::Size; i++) {
+		pinMode(InputPwmPins[i], INPUT_PULLUP);
+		pinMode(OutputPins[i], OUTPUT);
+		pciSetup(InputPwmPins[i]);
+	}
+}
+
 void setup() {
-	int i;
 	Serial.begin(250000);
-	pinMode(InputPwmPins[Channels::Channel1], INPUT_PULLUP);
-	pinMode(InputPwmPins[Channels::Channel2], INPUT_PULLUP);
-	pinMode(InputPwmPins[Channels::Channel3], INPUT_PULLUP);
-	pinMode(InputPwmPins[Channels::Channel4], INPUT_PULLUP);
-	
-	// enable interrupt for pin...
-	pciSetup(InputPwmPins[Channels::Channel1]);
-	pciSetup(InputPwmPins[Channels::Channel2]);
-	pciSetup(InputPwmPins[Channels::Channel3]);
-	pciSetup(InputPwmPins[Channels::Channel4]);
+	initGpio();
 }
  
  
