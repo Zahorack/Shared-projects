@@ -3,6 +3,11 @@ This repository contains some of my older simple non commercial projects.
 
 # List of projects
 
+* [Long Range IoT module](https://github.com/Zahorack/Shared-projects/blob/master/LongRangeIoTModule)
+<p align="left">
+<img src="https://github.com/Zahorack/Shared-projects/blob/master/LongRangeIoTModule/Photodocumentation/final.JPG" width="250" 
+</p>
+
 * [MultiController](https://github.com/Zahorack/Shared-projects/blob/master/MultiController)
 <p align="left">
 <img src="https://github.com/Zahorack/Shared-projects/blob/master/MultiController/Photodocumentation/IMG_3594.JPG" width="250" 
