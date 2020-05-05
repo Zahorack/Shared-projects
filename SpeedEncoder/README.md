@@ -1,3 +1,16 @@
+# This project has been implemented in Space Printing Rover
+
+[Project repository](https://github.com/xgallom/sprinter)
+
+[Project animation](https://www.youtube.com/watch?v=Yk3GE7gT7yQ)
+
+<p align="center">
+<img src="https://github.com/Zahorack/unity/blob/master/sPrinter-animation/Photos/sintering.png" width="450" title="hover text">
+</p>
+
+<br/>
+<br/>
+
 # <div align="center">Návrh a implementácia spätnej väzby pohonného systému</div>
 
 <br/>
