@@ -3,6 +3,16 @@ This repository contains some of my older simple non commercial projects.
 
 # List of projects
 
+* [Wheel speed encoder](https://github.com/Zahorack/embedded-open-projects/tree/master/SpeedEncoder)
+<p align="left">
+<img src="https://github.com/Zahorack/embedded-open-projects/blob/master/SpeedEncoder/Photodocumentation/7.png" width="250" 
+</p>
+
+* [HMR_02 homemade low-cost sonar](https://github.com/Zahorack/embedded-open-projects/tree/master/HMR-02)
+<p align="left">
+<img src="https://github.com/Zahorack/embedded-open-projects/blob/master/HMR-02/Photodocumentation/HMR_02/3.jpg" width="250" 
+</p>
+
 * [Long Range IoT module](https://github.com/Zahorack/Shared-projects/blob/master/LongRangeIoTModule)
 <p align="left">
 <img src="https://github.com/Zahorack/Shared-projects/blob/master/LongRangeIoTModule/Photodocumentation/final.JPG" width="250" 
